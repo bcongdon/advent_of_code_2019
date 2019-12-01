@@ -4,4 +4,7 @@
 
 ## Solutions
 
+* Day 1:  :santa:
+    * [Go](Day1-9/1.go)
+    * [Python](Day1-9/1.py)
 
