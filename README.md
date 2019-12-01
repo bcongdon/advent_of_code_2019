@@ -6,6 +6,7 @@
 
 * Day 1:  :santa:
     * [Haskell](Day1-9/1.hs)
+    * [C++](Day1-9/1.cpp)
     * [Go](Day1-9/1.go)
     * [Rust](Day1-9/day1.rs)
     * [Python](Day1-9/1.py)
