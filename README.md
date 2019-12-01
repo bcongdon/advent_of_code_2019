@@ -5,6 +5,7 @@
 ## Solutions
 
 * Day 1:  :santa:
+    * [Haskell](Day1-9/1.hs)
     * [Go](Day1-9/1.go)
     * [Python](Day1-9/1.py)
 
