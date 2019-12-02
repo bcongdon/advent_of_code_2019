@@ -29,9 +29,9 @@ fn fuel_req_2(m: &i32) -> i32 {
 
 pub fn main() {
     let lines = read_lines("1.txt").expect("file not found");
-    let modules = lines
-        .map(|x| x.unwrap().parse::<i32>().unwrap())
-        .collect::<Vec<i32>>();
+    let modules: Vec<i32> = lines
+        .map(|x| x.unwrap().parse().unwrap())
+        .collect();
 
     let part1: i32 = modules.iter().map(fuel_req).sum();
     println!("Part 1: {}", part1);
