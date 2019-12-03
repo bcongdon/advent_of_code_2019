@@ -14,4 +14,6 @@
 * Day 2:  :star2:
     * [Python](Day1-9/2.py)
     * [Rust](Day1-9/day2.rs)
+* Day 3:  :snowflake:
+    * [Python](Day1-9/3.py)
 
