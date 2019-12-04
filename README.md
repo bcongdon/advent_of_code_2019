@@ -19,4 +19,5 @@
     * [Python](Day1-9/3.py)
 * Day 4:  :snowman:
     * [Python](Day1-9/4.py)
+    * [Go](Day1-9/4.go)
 
