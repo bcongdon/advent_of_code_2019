@@ -18,6 +18,7 @@
     * [Rust](Day1-9/day3.rs)
     * [Python](Day1-9/3.py)
 * Day 4:  :snowman:
+    * [Haskell](Day1-9/4.hs)
     * [Python](Day1-9/4.py)
     * [Go](Day1-9/4.go)
 
