@@ -21,4 +21,5 @@
     * [Haskell](Day1-9/4.hs)
     * [Python](Day1-9/4.py)
     * [Go](Day1-9/4.go)
+    * [Rust](Day1-9/day4.rs)
 
