@@ -22,4 +22,6 @@
     * [Python](Day1-9/4.py)
     * [Go](Day1-9/4.go)
     * [Rust](Day1-9/day4.rs)
+* Day 5:  :sparkles:
+    * [Rust](Day1-9/day5.rs)
 
