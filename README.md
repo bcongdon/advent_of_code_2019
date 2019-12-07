@@ -24,4 +24,6 @@
     * [Rust](Day1-9/day4.rs)
 * Day 5:  :sparkles:
     * [Rust](Day1-9/day5.rs)
+* Day 6:  :fire:
+    * [Python](Day1-9/6.py)
 
