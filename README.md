@@ -28,4 +28,6 @@
     * [Python](Day1-9/6.py)
 * Day 7:  :christmas_tree:
     * [Rust](Day1-9/day7.rs)
+* Day 8:  :gift:
+    * [Python](Day1-9/8.py)
 
