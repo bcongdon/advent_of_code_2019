@@ -30,4 +30,6 @@
     * [Rust](Day1-9/day7.rs)
 * Day 8:  :gift:
     * [Python](Day1-9/8.py)
+* Day 9:  :bell:
+    * [Rust](Day1-9/day9.rs)
 
