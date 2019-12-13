@@ -38,4 +38,6 @@
     * [Rust](Day10-19/day11.rs)
 * Day 12:  :star2:
     * [Go](Day10-19/12.go)
+* Day 13:  :snowflake:
+    * [Rust](Day10-19/day13.rs)
 
