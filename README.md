@@ -36,4 +36,6 @@
     * [Python](Day10-19/10.py)
 * Day 11:  :santa:
     * [Rust](Day10-19/day11.rs)
+* Day 12:  :star2:
+    * [Go](Day10-19/12.go)
 
