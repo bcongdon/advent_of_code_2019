@@ -50,4 +50,6 @@
     * [Rust](Day10-19/day19.rs)
 * Day 20:  :tada:
     * [Python](Day20-25/20.py)
+* Day 21:  :santa:
+    * [Rust](Day20-25/day21.rs)
 
