@@ -54,4 +54,6 @@
     * [Rust](Day20-25/day21.rs)
 * Day 22:  :star2:
     * [Python](Day20-25/22.py)
+* Day 23:  :snowflake:
+    * [Rust](Day20-25/day23.rs)
 
