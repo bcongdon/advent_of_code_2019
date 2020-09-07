@@ -42,6 +42,8 @@
     * [Rust](Day10-19/day13.rs)
 * Day 14:  :snowman:
     * [Python](Day10-19/14.py)
+* Day 15:  :sparkles:
+    * [Rust](Day10-19/day15.rs)
 * Day 16:  :fire:
     * [Python](Day10-19/16.py)
 * Day 17:  :christmas_tree:
