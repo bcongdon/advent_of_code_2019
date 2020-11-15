@@ -48,6 +48,8 @@
     * [Python](Day10-19/16.py)
 * Day 17:  :christmas_tree:
     * [Rust](Day10-19/day17.rs)
+* Day 18:  :gift:
+    * [Rust](Day10-19/day18.rs)
 * Day 19:  :bell:
     * [Rust](Day10-19/day19.rs)
 * Day 20:  :tada:
