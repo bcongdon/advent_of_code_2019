@@ -31,6 +31,7 @@ extensions = {
     "js": "Javascript",
     "go": "Go",
     "rs": "Rust",
+    "fs": "F#",
 }
 
 TEMPLATE = """# advent_of_code_2019

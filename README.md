@@ -7,6 +7,7 @@
 * Day 1:  :santa:
     * [Haskell](Day1-9/1.hs)
     * [C++](Day1-9/1.cpp)
+    * [F#](Day1-9/1.fs)
     * [Go](Day1-9/1.go)
     * [Rust](Day1-9/day1.rs)
     * [Python](Day1-9/1.py)
@@ -19,6 +20,7 @@
     * [Python](Day1-9/3.py)
 * Day 4:  :snowman:
     * [Haskell](Day1-9/4.hs)
+    * [F#](Day1-9/4.fs)
     * [Python](Day1-9/4.py)
     * [Go](Day1-9/4.go)
     * [Rust](Day1-9/day4.rs)
